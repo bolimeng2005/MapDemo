@@ -1,0 +1,23 @@
+PODS:
+  - AMap2DMap-NO-IDFA (4.6.0):
+    - AMapFoundation-NO-IDFA (~> 1.3)
+  - AMapFoundation-NO-IDFA (1.4.2)
+  - AMapLocation-NO-IDFA (2.5.0):
+    - AMapFoundation-NO-IDFA (~> 1.4)
+  - AMapSearch-NO-IDFA (5.4.0):
+    - AMapFoundation-NO-IDFA (~> 1.4)
+
+DEPENDENCIES:
+  - AMap2DMap-NO-IDFA
+  - AMapLocation-NO-IDFA
+  - AMapSearch-NO-IDFA
+
+SPEC CHECKSUMS:
+  AMap2DMap-NO-IDFA: 01c80e7e93568617b1b1b452cfec71f974f5bc8a
+  AMapFoundation-NO-IDFA: 3b9ce87abc6a37c718cc320687469d0b74d5c953
+  AMapLocation-NO-IDFA: be669085a8cc0d22820022fc61d58811d24b4e3a
+  AMapSearch-NO-IDFA: efddeaa3f62f6adb8f0170ebff3d799bcf637ade
+
+PODFILE CHECKSUM: efdc680261dce11300096d7d912f20ca1f753241
+
+COCOAPODS: 1.4.0.beta.2

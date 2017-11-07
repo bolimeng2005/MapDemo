@@ -1,0 +1,8 @@
+
+platform:ios,'9.0'
+
+target 'mapDemo' do
+pod 'AMap2DMap-NO-IDFA'
+pod 'AMapSearch-NO-IDFA'
+pod 'AMapLocation-NO-IDFA'
+end

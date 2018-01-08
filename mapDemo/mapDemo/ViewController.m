@@ -23,7 +23,7 @@
     [self.view addSubview:self.mapView];
     
     _field = [[UITextField alloc]initWithFrame:CGRectMake(20, 20, 200, 30)];
-    _field.backgroundColor = [UIColor cyanColor];
+    _field.backgroundColor = [UIColor orangeColor];
     _field.delegate = self;
     [self.view addSubview:_field];
     
